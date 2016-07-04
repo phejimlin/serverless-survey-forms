@@ -1,8 +1,8 @@
 # serverless-survey-forms (still under construction)
 
 [![Serverless Framework](https://camo.githubusercontent.com/547c6da94c16fedb1aa60c9efda858282e22834f/687474703a2f2f7075626c69632e7365727665726c6573732e636f6d2f6261646765732f76332e737667)](http://www.serverless.com/)
-[![Build Status](https://travis-ci.org/trendmicro/serverless-survey-forms.svg?branch=master)](https://travis-ci.org/trendmicro/serverless-survey-forms)
-[![Coverage Status](https://coveralls.io/repos/github/trendmicro/serverless-survey-forms/badge.svg?branch=master)](https://coveralls.io/github/trendmicro/serverless-survey-forms?branch=master)
+[![Build Status](https://travis-ci.org/phejimlin/serverless-survey-forms.svg?branch=master)](https://travis-ci.org/phejimlin/serverless-survey-forms)
+[![Coverage Status](https://coveralls.io/repos/github/phejimlin/serverless-survey-forms/badge.svg?branch=master)](https://coveralls.io/github/phejimlin/serverless-survey-forms?branch=master)
 
 To create a google-style survey forms, authorized users could design surveys and collect anonymous feedbacks.
 
